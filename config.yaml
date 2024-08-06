@@ -1,0 +1,8 @@
+name: Stopwatch
+version: "1.0"
+description: A stopwatch with multiple timers.
+url: https://github.com/yourusername/stopwatch
+network_mode: host
+startup: application
+boot: auto
+port: 5000
